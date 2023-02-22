@@ -1,0 +1,18 @@
+
+table, tr, td{
+    background: orange;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+tr{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: red;
+    border: 1px solid;
+}
+
+td{
+    border: 1px solid;
+}
